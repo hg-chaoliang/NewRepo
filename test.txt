@@ -1,0 +1,6 @@
+In order to investigate submesoscale processes in deeper oceanic regions,
+we deliberately chose to focus our research on the area situated below the mixed layer depth,
+specifically at a depth of 406 meters, for the study of submesoscale processes at the ocean floor. 
+Interestingly, in stark contrast to the upper layer, it becomes evident that submesoscale processes at the bottom 
+exhibit notably reduced levels of activity. Figure 6 provides snapshots of the same variables 
+as Figure 4 but emphasizes submesoscale processes at the seafloor while excluding cross-sectional results.
